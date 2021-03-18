@@ -1,0 +1,7 @@
+#set of nodes
+N1,N2,N3
+
+#set of links
+N1,N2,3
+N2,N3,2
+
